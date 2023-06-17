@@ -1,0 +1,39 @@
+{
+  "digit2": {
+    "lastDateSearched": "2019-01-01T00:00:00+08:00",
+    "link": "https://www.philippinepcsolotto.com/ez2-results/ez2-result-"
+  },
+  "digit3": {
+    "lastDateSearched": "2019-01-01T00:00:00+08:00",
+    "link": "https://www.philippinepcsolotto.com/swertres-results/swertres-result-"
+  },
+  "stl2d": {
+    "lastDateSearched": "2020-01-29T05:21:36+08:00",
+    "link": "https://www.philippinepcsolotto.com/stl-results/stl-2-digit-result/stl-2-digit-result-"
+  },
+  "stl3d": {
+    "lastDateSearched": "2019-01-01T00:00:00+08:00",
+    "link": "https://www.philippinepcsolotto.com/stl-results/stl-swer3-result/stl-swer3-result-"
+  },
+  "stlpares": {
+    "lastDateSearched": "2019-01-01T00:00:00+08:00",
+    "link": "https://www.philippinepcsolotto.com/stl-results/stl-pares-result/stl-pares-result-"
+  },
+  "digit4": {
+    "lastDateSearched": "2019-01-01T00:00:00+08:00",
+    "link": "https://www.philippinepcsolotto.com/4-digit-results/4d-result-"
+  },
+  "digit6": {
+    "lastDateSearched": "2019-01-01T00:00:00+08:00",
+    "link": "https://www.philippinepcsolotto.com/6-digit-results/6d-result-"
+  },
+  "draws": {
+    "digit2": 0,
+    "digit3": 1,
+    "stl2d": 2,
+    "stl3d": 3,
+    "stlpares": 4,
+    "digit4": 5,
+    "digit6": 6
+  }
+}
